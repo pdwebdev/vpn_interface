@@ -1,0 +1,12 @@
+@import 'mixins';
+
+*{
+  box-sizing: border-box;
+  color: $white;
+  font-family: 'Anek Tamil', sans-serif;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+}
