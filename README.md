@@ -1,4 +1,6 @@
-# vpn_interface
+# VPN Interface
+
+![alt text](https://pdweb.dev/assets/images/showroom/vpn.png)
 
 ## Project setup
 ```
